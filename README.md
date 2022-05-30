@@ -1,5 +1,7 @@
 # studio-inventory
 
+# THIS REPO IS LIKELY GOING TO BE ABANDONED BECAUSE reverb.com HAS THE FEATURES THAT THIS REPO WAS GOING TO IMPLEMENT
+
 Keep track of gear in your studio
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
